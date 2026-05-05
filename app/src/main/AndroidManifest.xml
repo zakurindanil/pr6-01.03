@@ -12,7 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Notes_zakurin">
         <activity
-            android:name=".NotesActivity"
+            android:name=".presentations.NoteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NoteActivty"
+            android:exported="false" />
+        <activity
+            android:name=".presentations.NotesActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

@@ -1,4 +1,4 @@
-package com.example.notes_zakurin;
+package com.example.notes_zakurin.presentations;
 
 import android.os.Bundle;
 
